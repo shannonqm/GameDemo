@@ -1,0 +1,22 @@
+﻿[
+	{
+		"name":"",
+		"class":"战士",
+		"hp":100,
+		"atk":10,
+		"def":1,
+		"exp":10,
+		"range-atk":1,
+		"range-see":5
+	},
+	{
+		"name":"",
+		"class":"战士",
+		"hp":100,
+		"atk":10,
+		"def":1,
+		"exp":10,
+		"range-atk":1,
+		"range-see":5
+	}
+]
